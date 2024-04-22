@@ -1,0 +1,5 @@
+**/.Idea
+**/.venv
+**/venv
+spark+kube
+**/__pycache__
